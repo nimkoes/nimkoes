@@ -1,8 +1,9 @@
   
+### I work diligently to become lazy ☕
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnimkoes%2Fhit-counter&count_bg=%23DD58D8&title_bg=%232ADBA0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![nimkoes GitHub stats](https://github-readme-stats.vercel.app/api?username=nimkoes)](https://github.com/nimkoes/github-readme-stats)  
   
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnimkoes%2Fhit-counter&count_bg=%238500E9&title_bg=%2300BA84&icon=&icon_color=%23E7E7E7&title=H&edge_flat=false)](https://hits.seeyoufarm.com) <!-- Tech Blog --> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://nimkoes.github.io/)](https://nimkoes.github.io/) <!-- Gmail --> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xxxelppa@gmail.com)](mailto:xxxelppa@gmail.com)  
   
 <!--
 **nimkoes/nimkoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
