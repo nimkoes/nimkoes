@@ -4,7 +4,7 @@
   
 #### 💻 Tech Stack
 - ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=black) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-- ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black) ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black) ![jQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=black) 
+- ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black) ![jQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=black) 
 - ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) 
 - ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
   
