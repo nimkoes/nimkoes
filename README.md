@@ -2,15 +2,41 @@
 ## I work diligently to become lazy ☕
   
   
-#### 💻 Tech Stack
+### 💻 Tech Stack
   
+* Java (1.7+)
+* Spring Web MVC, Spring Boot
+* SQL (MySQL, Oracle)
+* jQuery, jqGrid
+* JSP, JavaScript, HTML, CSS
+* Maven
+* Scratch
+  
+##### 🧪 ***HAVE EVER USED***
+* Go, C, C#, ASP.NET, python
+* Windows Server
+* DB2, PL/SQL, stored procedure
+* thymeleaf
+* Git, Subversion
+* Hudson, Jenkins
+  
+##### 🔨 ***utility***
+* eclipse, IntelliJ, Visual Studio Code
+* EmEditor, UltraEdit, Notepad++
+* WinMerge
+* Postman
+  
+
+<!--
 - ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=black) ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 - ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black) ![jQuery Badge](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=black) 
 - ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) 
 - ![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
+-->
   
+　  
   
-#### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - Java 1.8+
 - Spring Web MVC
 - Spring Boot
