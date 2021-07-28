@@ -15,10 +15,11 @@
 ##### 🧪 ***HAVE EVER USED***
 * Go, C, C#, ASP.NET, python
 * Windows Server
-* DB2, PL/SQL, stored procedure
+* DB2, MSSQL, PL/SQL, stored procedure
 * thymeleaf
 * Git, Subversion
 * Hudson, Jenkins
+* TinyOS
   
 ##### 🔨 ***utility***
 * eclipse, IntelliJ, Visual Studio Code
