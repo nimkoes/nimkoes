@@ -43,7 +43,9 @@
 - Spring Boot
   
 　  
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimkoes&layout=compact=count_private=true)
+　  
+
   
 <!--
 [![nimkoes GitHub stats](https://github-readme-stats.vercel.app/api?username=nimkoes)](https://github.com/anuraghazra/github-readme-stats)  
