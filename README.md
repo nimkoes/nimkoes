@@ -18,7 +18,7 @@
 * DB2, MSSQL, PL/SQL, stored procedure
 * thymeleaf
 * Git, Subversion
-* Hudson, Jenkins
+* Ant, Hudson, Jenkins
 * TinyOS
 
 　  
