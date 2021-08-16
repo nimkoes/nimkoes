@@ -6,7 +6,7 @@
   
 * Java (1.7+)
 * Spring Web MVC, Spring Boot
-* SQL (MySQL, Oracle)
+* SQL (SQLD)
 * jQuery, jqGrid
 * JSP, JavaScript, HTML, CSS
 * Maven
