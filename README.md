@@ -47,8 +47,10 @@
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimkoes&layout=compact=count_private=true)
 -->
-   
+
+<!--
 ![Metrics](https://metrics.lecoq.io/nimkoes?template=classic&config.timezone=Asia%2FSeoul&config.animated=true)
+-->
 
 <!--
 [![nimkoes GitHub stats](https://github-readme-stats.vercel.app/api?username=nimkoes)](https://github.com/anuraghazra/github-readme-stats)  
