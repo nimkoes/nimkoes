@@ -6,13 +6,13 @@
   
 * Java (1.7+)
 * Spring Web MVC, Spring Boot
-* SQL (SQLD)
+* SQL (SQLD certified)
 * jQuery, jqGrid
 * JSP, JavaScript, HTML, CSS
 * Maven
 * Scratch
   
-##### 🧪 ***HAVE EVER USED***
+##### 🧪 ***experienced***
 * Go, C, C#, ASP.NET, python
 * Windows Server
 * DB2, MSSQL, PL/SQL, stored procedure
