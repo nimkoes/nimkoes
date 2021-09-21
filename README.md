@@ -15,10 +15,11 @@
 ##### 🧪 ***experienced***
 * Go, C, C#, ASP.NET, python
 * Windows Server
-* DB2, MSSQL, PL/SQL, stored procedure
+* Redis, MySQL, DB2, MSSQL, PL/SQL, stored procedure
 * thymeleaf
 * Git, Subversion
-* Ant, Hudson, Jenkins
+* Docker, k8s
+* Ant, Hudson, Jenkins, Azure
 * TinyOS
 
 　  
