@@ -25,7 +25,7 @@
 　  
 <!--
 ##### 🔨 ***utility***
-* eclipse, IntelliJ, Visual Studio Code
+* IntelliJ, Visual Studio Code, eclipse
 * EmEditor, UltraEdit, Notepad++
 * WinMerge
 * Postman
