@@ -16,8 +16,8 @@
 * Go, C, C#, ASP.NET, python
 * Windows Server
 * Spring Data JPA, querydsl
-* thymeleaf
 * Redis, MySQL, DB2, MSSQL, PL/SQL, stored procedure
+* thymeleaf
 * Git, Subversion
 * Azure, Jenkins, Hudson, Ant 
 * Docker, k8s
