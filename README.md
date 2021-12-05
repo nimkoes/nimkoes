@@ -5,22 +5,22 @@
 ### 💻 Tech Stack
   
 * Java (1.7+)
-* Spring Web MVC, Spring Boot
 * SQL (SQLD certified)
+* Spring Web MVC, Spring Boot
+* Spring Data JPA, querydsl
 * jQuery, jqGrid
 * JSP, JavaScript, HTML, CSS
-* Maven
+* Git, Subversion
+* Azure, k8s, Maven, Ant
 * Scratch
   
 ##### 🧪 ***experienced***
 * Go, C, C#, ASP.NET, python
 * Windows Server
-* Spring Data JPA, querydsl
 * Redis, MySQL, DB2, MSSQL, PL/SQL, stored procedure
 * thymeleaf
-* Git, Subversion
-* Azure, Jenkins, Hudson, Ant 
-* Docker, k8s
+* Jenkins, Hudson
+* Docker
 * TinyOS
 
 　  
