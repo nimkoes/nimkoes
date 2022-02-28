@@ -7,7 +7,7 @@
 * Java (1.7+)
 * SQL (SQLD certified)
 * Spring Boot, Spring Web MVC, Spring Data JPA, querydsl
-* JSP, HTML, CSS, JavaScript, jQuery, jqGrid
+* HTML, CSS, JavaScript, JSP, jQuery, jqGrid
 * Git, Subversion
 * Azure, k8s, Maven, Ant
 * Scratch
@@ -15,7 +15,9 @@
 ##### 🧪 ***experienced***
 * Go, C, C#, ASP.NET, python
 * Windows Server
-* Redis, MySQL, DB2, MSSQL, PL/SQL, stored procedure
+* Redis, MongoDB
+* MSSQL, MySQL, DB2
+* PL/SQL, stored procedure
 * thymeleaf
 * Jenkins, Hudson
 * Docker
