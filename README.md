@@ -7,6 +7,7 @@
 * Java (1.7+)
 * SQL (SQLD certified)
 * Spring Boot, Spring Web MVC, Spring Data JPA, querydsl
+* WebSocket
 * HTML, CSS, JavaScript, JSP, jQuery, jqGrid
 * Git, Subversion
 * Azure, k8s, Maven, Ant
