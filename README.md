@@ -8,7 +8,7 @@
 * SQL (SQLD certified)
 * Spring Web MVC, Spring Boot
 * Spring Data JPA, querydsl
-* WebSocket
+* WebSocket(stomp)
 * HTML, CSS, JavaScript, JSP, jQuery, jqGrid
 * Git, Subversion
 * Azure, k8s, Maven, Ant
