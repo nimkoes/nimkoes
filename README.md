@@ -16,7 +16,7 @@
   
 ##### 🧪 ***experienced***
 * Go, C, C#, ASP.NET, python
-* Windows Server
+* Node.js, Windows Server
 * Redis, MongoDB
 * MSSQL, MySQL, DB2
 * PL/SQL, stored procedure
