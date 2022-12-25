@@ -20,7 +20,7 @@
 * Redis, MongoDB
 * MSSQL, MySQL, DB2
 * PL/SQL, stored procedure
-* thymeleaf
+* React, thymeleaf
 * Jenkins, Hudson
 * Docker
 * TinyOS
