@@ -11,7 +11,7 @@
 * WebSocket(stomp)
 * HTML, CSS, JavaScript, JSP, jQuery, jqGrid
 * Git, Subversion
-* Azure, k8s, Maven, Ant
+* Azure, k8s, Gradle, Maven, Ant
 * Scratch
   
 ##### 🧪 ***experienced***
